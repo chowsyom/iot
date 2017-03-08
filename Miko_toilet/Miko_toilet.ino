@@ -2,7 +2,7 @@
 #include <Messenger.h>
 #include <ZHCRS501.h>
 
-//#define _1ST_TOILET_  //选择主次卫
+#define _1ST_TOILET_  //选择主次卫
 
 #define MANUAL_PIN 2
 #define HCSR501_PIN 3
